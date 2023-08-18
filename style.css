@@ -2,5 +2,5 @@ p{
     color: blue;
 }
 body{
-    background-image: url('../gitsample2b4/images/bali.jfif');
+    background-image: url(../gitsample2b4/images/bali.jfif);
 }
